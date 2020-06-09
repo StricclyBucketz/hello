@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv) {
 
-printf("Christian White\n Austin Aldana\n");
+printf("Christian White:\n Electrical Engineering\n");
 
 return 0;
 }
